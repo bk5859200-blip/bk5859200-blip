@@ -1,3 +1,21 @@
+ Hi, I'm Bhargav
+ CSE — Data Science Student
+ Interested in AI, Data Science & Software Development
+ Building projects and learning by doing
+
+##  Currently Working On
+AI-powered applications and developer projects
+
+##  Currently Learning
+Python • SQL • DSA • Machine Learning • AI
+
+## 🛠️Tech Stack
+Python • SQL • C++ • Git • GitHub
+
+##  Featured Projects
+Coming soon — building and documenting my best projects.
+
+
 # 💫 About Me:
 🚀 I'm currently working on<br>Building AI-powered applications and developer projects.<br><br>🤝 I'm looking to collaborate on<br>AI, Data Science, automation, and open-source projects.<br><br>💡 I'm looking for help with<br>Advanced Python, Machine Learning, and building production-ready AI systems.<br><br>🌱 I'm currently learning<br>Python • SQL • Data Structures & Algorithms • Machine Learning • AI<br><br>💬 Ask me about<br>Python, SQL, AI projects, Data Science, and my journey into software development.<br><br>⚡ Fun fact<br>I love turning crazy ideas into actual working projects. 🚀
 
