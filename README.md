@@ -17,7 +17,7 @@ Coming soon — building and documenting my best projects.
 
 
 # About Me:
- 🤖 Interested in AI, Data Science & Software Development<br>🚀 Building projects and learning by doing<br><br>## 🚀 Currently Working On<br>AI-powered applications and developer projects<br><br>## 🌱 Currently Learning<br>Python • SQL • DSA • Machine Learning • AI<br><br>## 🛠️ Tech Stack<br>Python • SQL • C++ • Git • GitHub<br><br>## 📌 Featured Projects<br>Coming soon — building and documenting my best projects.<br><br>## 📊 GitHub Stats<br><br>
+ 🤖 Interested in AI, Data Science & Software Development<br>🚀 Building projects and learning by doing<br><br>## 🚀 Currently Working On<br>AI-powered applications and developer projects<br><br>## 🌱 Currently Learning<br>Python • SQL • DSA • Machine Learning • AI<br><br>## 🛠️ Tech Stack<br>Python • SQL • C++ • Git • GitHub<br><br>## 📌 Featured Projects<br>Coming soon — building and documenting my best projects.<br><br>
 
 
 # 💻 Tech Stack:
