@@ -1,4 +1,4 @@
- Hi, I'm Bhargav
+ Hello , I'm Bhargava Krishna
  CSE — Data Science Student
  Interested in AI, Data Science & Software Development
  Building projects and learning by doing
@@ -9,15 +9,15 @@ AI-powered applications and developer projects
 ##  Currently Learning
 Python • SQL • DSA • Machine Learning • AI
 
-## 🛠️Tech Stack
+## Tech Stack
 Python • SQL • C++ • Git • GitHub
 
-##  Featured Projects
+## Featured Projects
 Coming soon — building and documenting my best projects.
 
 
-# 💫 About Me:
-👋 Hi, I'm Bhargav<br><br>🎓 CSE — Data Science Student<br>🤖 Interested in AI, Data Science & Software Development<br>🚀 Building projects and learning by doing<br><br>## 🚀 Currently Working On<br>AI-powered applications and developer projects<br><br>## 🌱 Currently Learning<br>Python • SQL • DSA • Machine Learning • AI<br><br>## 🛠️ Tech Stack<br>Python • SQL • C++ • Git • GitHub<br><br>## 📌 Featured Projects<br>Coming soon — building and documenting my best projects.<br><br>## 📊 GitHub Stats<br><br>## 🤝 Let's Connect<br>LinkedIn • GitHub
+# About Me:
+ 🤖 Interested in AI, Data Science & Software Development<br>🚀 Building projects and learning by doing<br><br>## 🚀 Currently Working On<br>AI-powered applications and developer projects<br><br>## 🌱 Currently Learning<br>Python • SQL • DSA • Machine Learning • AI<br><br>## 🛠️ Tech Stack<br>Python • SQL • C++ • Git • GitHub<br><br>## 📌 Featured Projects<br>Coming soon — building and documenting my best projects.<br><br>## 📊 GitHub Stats<br><br>
 
 
 # 💻 Tech Stack:
